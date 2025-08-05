@@ -1,3 +1,4 @@
+![logo](https://github.com/KuruvaRavi99/KuruvaRavi-99/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Ravi Kuruva</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://tse2.mm.bing.net/th/id/OIP.mUahTQdRR4e4MJLLtJkjbwHaEU?pid=Api&P=0&h=180">
